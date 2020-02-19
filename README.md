@@ -7,4 +7,4 @@ Applications Used:
 
 
 ### RPS | *Main* |
-![Image of lowstock1](/assets/images/lowstock1.png)
+![Image of lowstock1](/assets/images/rps.jpg)
